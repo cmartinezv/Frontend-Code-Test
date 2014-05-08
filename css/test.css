@@ -1,0 +1,22 @@
+.content-wrapper{
+	width: 600px;
+}
+
+.aside-wrapper{
+	width: 300px;
+	float: right;
+}
+
+header{
+	height: 50px;
+	background-color: #dedede;	
+}
+
+footer{
+	position: fixed;
+	height: 50px;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	background-color: #dedede;	
+}
